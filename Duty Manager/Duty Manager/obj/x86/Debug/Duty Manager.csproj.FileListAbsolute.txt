@@ -1,0 +1,17 @@
+c:\users\danny\documents\visual studio 2010\Projects\Duty Manager\Duty Manager\obj\x86\Debug\Duty Manager.csprojResolveAssemblyReference.cache
+c:\users\danny\documents\visual studio 2010\Projects\Duty Manager\Duty Manager\obj\x86\Debug\MainWindow.baml
+c:\users\danny\documents\visual studio 2010\Projects\Duty Manager\Duty Manager\obj\x86\Debug\MainWindow.g.cs
+c:\users\danny\documents\visual studio 2010\Projects\Duty Manager\Duty Manager\obj\x86\Debug\App.g.cs
+c:\users\danny\documents\visual studio 2010\Projects\Duty Manager\Duty Manager\obj\x86\Debug\Duty Manager_MarkupCompile.cache
+c:\users\danny\documents\visual studio 2010\Projects\Duty Manager\Duty Manager\obj\x86\Debug\Duty Manager.g.resources
+c:\users\danny\documents\visual studio 2010\Projects\Duty Manager\Duty Manager\obj\x86\Debug\Duty_Manager.Properties.Resources.resources
+c:\users\danny\documents\visual studio 2010\Projects\Duty Manager\Duty Manager\obj\x86\Debug\Duty Manager.csproj.GenerateResource.Cache
+c:\users\danny\documents\visual studio 2010\Projects\Duty Manager\Duty Manager\bin\Debug\Duty Manager.exe
+c:\users\danny\documents\visual studio 2010\Projects\Duty Manager\Duty Manager\bin\Debug\Duty Manager.pdb
+c:\users\danny\documents\visual studio 2010\Projects\Duty Manager\Duty Manager\bin\Debug\Newtonsoft.Json.dll
+c:\users\danny\documents\visual studio 2010\Projects\Duty Manager\Duty Manager\bin\Debug\Newtonsoft.Json.pdb
+c:\users\danny\documents\visual studio 2010\Projects\Duty Manager\Duty Manager\bin\Debug\Newtonsoft.Json.xml
+c:\users\danny\documents\visual studio 2010\Projects\Duty Manager\Duty Manager\obj\x86\Debug\Duty Manager.exe
+c:\users\danny\documents\visual studio 2010\Projects\Duty Manager\Duty Manager\obj\x86\Debug\Duty Manager.pdb
+C:\Users\Danny\Documents\git\Duty-Manager\Duty Manager\Duty Manager\obj\x86\Debug\Duty Manager.exe
+C:\Users\Danny\Documents\git\Duty-Manager\Duty Manager\Duty Manager\obj\x86\Debug\Duty Manager.pdb
